@@ -1,2 +1,2 @@
-# Elements-in-range-of-numbers
+# sum-in-range-of-numbers
 Phyton programme gives sum of number from range
